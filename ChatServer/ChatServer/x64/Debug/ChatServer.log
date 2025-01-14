@@ -1,0 +1,10 @@
+﻿  ChatServer.cpp
+  Helper.cpp
+  Server.cpp
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(66,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(104,13): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(105,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(106,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\Chat-2\ChatServer\ChatServer\Server.cpp(182,29): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...

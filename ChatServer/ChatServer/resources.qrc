@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="data/userInfo.txt">data/userInfo.txt</file>
+        <file alias="data/history.txt">data/history.txt</file>
+        <file alias="data/chatHistory.txt">data/chatHistory.txt</file>
+    </qresource>
+</RCC> 

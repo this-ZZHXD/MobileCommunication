@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>data/userInfo.txt</file>
+        <file>data/history.txt</file>
+        <file>data/chatHistory.txt</file>
+    </qresource>
+</RCC> 
